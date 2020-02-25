@@ -12,7 +12,7 @@ Proyecto (código):
 
 ### Personaje
 
-<img src="https://github.com/joseespinosa10/storytelling_20/blob/master/1gib.jpg" alt="icarly" width="300" height="500">
+<img src="https://github.com/joseespinosa10/storytelling_20/blob/master/1gib.jpg" alt="icarly" width="250" height="250">
 
 Nombre: Miquel
 
