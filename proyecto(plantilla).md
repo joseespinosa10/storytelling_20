@@ -12,7 +12,7 @@ Proyecto (código):
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![](https://github.com/joseespinosa10/storytelling_20/blob/master/1gib.jpg)
 
 Nombre: Miquel
 
